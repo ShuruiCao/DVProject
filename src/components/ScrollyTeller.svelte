@@ -347,7 +347,7 @@ h1 {
   .image.visible {
     opacity: 0.2;
     visibility: visible;
-    background-image: url('./src/components/img/mujerencampo.png');
+    background-image: url('/mujerencampo.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -365,7 +365,7 @@ h1 {
 .image1.visible1 {
     opacity: 0.2;
     visibility: visible;
-    background-image: url('./src/components/img/housing_est.jpeg');
+    background-image: url('/housing_est.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -382,7 +382,7 @@ h1 {
 .image2.visible2 {
     opacity: 0.2;
     visibility: visible;
-    background-image: url('./src/components/img/housing_sm.jpeg');
+    background-image: url('/img/housing_sm.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -391,7 +391,7 @@ h1 {
   .image.visible7 {
     opacity: 0.1;
     visibility: visible;
-    background-image: url('./src/components/img/budgetspending.png');
+    background-image: url('/budgetspending.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -400,7 +400,7 @@ h1 {
   .image.visible8 {
     opacity: 0.1;
     visibility: visible;
-    background-image: url('./src/components/img/caravan.png');
+    background-image: url('/caravan.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -409,7 +409,7 @@ h1 {
   .image.visible3 {
     opacity: 0.1;
     visibility: visible;
-    background-image: url('./src/components/img/Food.png');
+    background-image: url('/Food.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -418,7 +418,7 @@ h1 {
   .image.visible4 {
     opacity: 0.1;
     visibility: visible;
-    background-image: url('./src/components/img/Housing.jpeg');
+    background-image: url('/Housing.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -427,7 +427,7 @@ h1 {
   .image.visible5 {
     opacity: 0.1;
     visibility: visible;
-    background-image: url('./src/components/img/Business.jpeg');
+    background-image: url('/Business.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
