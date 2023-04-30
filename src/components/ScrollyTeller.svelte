@@ -382,7 +382,7 @@ h1 {
 .image2.visible2 {
     opacity: 0.2;
     visibility: visible;
-    background-image: url('/img/housing_sm.jpeg');
+    background-image: url('/housing_sm.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
